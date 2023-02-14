@@ -1,0 +1,15 @@
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\mis-221-lab-4-Cloconnor1.exe
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\mis-221-lab-4-Cloconnor1.deps.json
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\mis-221-lab-4-Cloconnor1.runtimeconfig.json
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\mis-221-lab-4-Cloconnor1.dll
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\ref\mis-221-lab-4-Cloconnor1.dll
+C:\Users\carso\mis-221-lab-4-Cloconnor1\bin\Debug\net6.0\mis-221-lab-4-Cloconnor1.pdb
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.csproj.AssemblyReference.cache
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.AssemblyInfoInputs.cache
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.AssemblyInfo.cs
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.csproj.CoreCompileInputs.cache
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.dll
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\ref\mis-221-lab-4-Cloconnor1.dll
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.pdb
+C:\Users\carso\mis-221-lab-4-Cloconnor1\obj\Debug\net6.0\mis-221-lab-4-Cloconnor1.genruntimeconfig.cache
